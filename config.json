@@ -1,7 +1,13 @@
 {
-  "admins": [],
-  "moderators": [],
-  "developers": [],
+  "admins": [
+    "61554405703021"
+  ],
+  "moderators": [
+    "61554405703021"
+  ],
+  "developers": [
+    "61554405703021"
+  ],
   "Prefix": [
     "/"
   ],
